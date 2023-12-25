@@ -1,4 +1,4 @@
-# fastmeasurment
+# Fast measurement
 
 Simple Arduino sketch to read voltage in a useful manner for monitoring batteries and solar power circuits
 
